@@ -1,4 +1,4 @@
-package autotests.tests;
+package autotests;
 
 public class AppleTests {
 }
